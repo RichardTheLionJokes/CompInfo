@@ -1,0 +1,24 @@
+Computers
+1. string Имя компа
+2. string Пользователь
+3. string IP-адрес
+4. string Инвентарный номер
+5. string Операционная система
+8. string Материнская плата
+
+Processor
+1. string Наименование
+2. float Частота
+
+Memory
+1. string Наименование
+2. float Объём
+3. float Скорость
+
+HardDisk
+1. string Наименование
+2. float Объём
+
+Printers
+1. string Наименование
+2. string Инвентарный номер

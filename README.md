@@ -4,3 +4,5 @@
 Так как используется WMI, информация собирается только с компьютеров, использующих ОС семейства Windows.
 
 ![](https://github.com/RichardTheLionJokes/CompInfo/blob/master/Images/CompInfo.jpg)
+
+В настоящий момент работа над проектом приостановлена.
